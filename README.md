@@ -7,5 +7,5 @@ University student, graphic designer, learning how to code
 My arsenal:<br>
 [![My Skills](https://skillicons.dev/icons?i=ai,ps,blender,vscode,obsidian,notion,figma&theme=dark)](https://skillicons.dev)
 
-What I am learning:<br>
+Currently learning:<br>
 [![My Skills](https://skillicons.dev/icons?i=godot,unity,ae,html,css,js&theme=dark)](https://skillicons.dev)
