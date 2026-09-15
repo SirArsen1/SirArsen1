@@ -5,7 +5,18 @@ I am Arsen, digital media student, graphic designer. Learning how to code here.
 [![Instagram Portfolio](https://img.shields.io/badge/Instagram%20Portfolio-F33E73?logo=Instagram&logoColor=white)]([https://sirarsen1.github.io/Dungeons-And-Dragons-Initiative-Sorter/](https://planet-nose-f59.notion.site/Arsen-Aloian-8e0e5e743cd246be8e097e0dc7f3d2b1?source=copy_link))
 
 My arsenal:<br>
-[![My Skills](https://skillicons.dev/icons?i=ai,ps,blender,vscode,obsidian,notion,figma&theme=dark)](https://skillicons.dev)
-
+```
+- Adobe Illustrator
+- Adobe Photoshop
+- Figma
+- Blender 3D
+- Obsidian
+- Notion
+```
 Currently learning:<br>
-[![My Skills](https://skillicons.dev/icons?i=godot,unity,ae,html,css,js&theme=dark)](https://skillicons.dev)
+```
+- Godot
+- Unity
+- After Effects
+- HTML/CSS/JavaScript
+```
