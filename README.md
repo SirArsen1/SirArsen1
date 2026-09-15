@@ -9,10 +9,10 @@ My arsenal:<br>
 ├─ Adobe Suite
 ├─ Figma
 ├─ Blender 3D
-├─ Obsidian
+└─ Obsidian
 ```
 Currently learning:<br>
 ```
 ├─ Godot
-├─ HTML/CSS/JavaScript
+└─ HTML/CSS/JavaScript
 ```
