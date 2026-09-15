@@ -6,17 +6,13 @@ I am Arsen, digital media student, graphic designer. Learning how to code here.
 
 My arsenal:<br>
 ```
-- Adobe Illustrator
-- Adobe Photoshop
-- Figma
-- Blender 3D
-- Obsidian
-- Notion
+├─ Adobe Suite
+├─ Figma
+├─ Blender 3D
+├─ Obsidian
 ```
 Currently learning:<br>
 ```
-- Godot
-- Unity
-- After Effects
-- HTML/CSS/JavaScript
+├─ Godot
+├─ HTML/CSS/JavaScript
 ```
